@@ -1,0 +1,18 @@
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+background-color: antiquewhite;
+}
+
+h1{
+color: black;
+font-weight: 700;
+}
+
+.A{
+   color:black;
+   font-weight: 550;
+}
+.B{
+    color: darksalmon;
+}
